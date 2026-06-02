@@ -19,7 +19,8 @@
 3. Запустите `LegacyExplorer.exe`.
 
 ### 🎥 Демонстрация интерфейса утилиты:
-<img width="1073" height="853" alt="explorer_zgueQdHBLa" src="https://github.com/user-attachments/assets/6a6e1f24-4d1e-4b8e-9e54-c4511399a707" />
+<img width="915" height="787" alt="explorer_stIT6jAx5E" src="https://github.com/user-attachments/assets/ed69e1a0-4281-4ef6-874a-259d7ca8caa2" />
+
 
 
 
